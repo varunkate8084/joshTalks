@@ -19,6 +19,7 @@ from django.urls import path
 from django.urls import include
 from django.http import JsonResponse
 
+
 def testRoute(request):
   return JsonResponse({'message':'Hello Djnago server Is working'})
 
@@ -27,4 +28,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('auth/', include('authentication.urls')),
     path('tasks/', include('tasks.urls')),
+    path('', include('tasks.swagger_urls')),
 ]
+

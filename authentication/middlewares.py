@@ -6,7 +6,7 @@ class JWTAuthenticationMiddleware(MiddlewareMixin):
   
   def process_request(self, request):
     auth_header = request.headers.get('Authorization')
-    excluded_paths = ['/admin/', '/auth/','/test']
+    excluded_paths = ['/admin/', '/auth/','/test','/swagger','/redoc','/accounts']
     if any(request.path.startswith(path) for path in excluded_paths):
         return None  
 

@@ -236,3 +236,367 @@ WARNING:django.request:Bad Request: /tasks/get_assigned_task_by_userid/9
 INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
 INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
 INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+WARNING:django.request:Unauthorized: /
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Unauthorized: /swagger/
+WARNING:django.request:Unauthorized: /favicon.ico
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\authentication\middlewares.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\arambhskill\urls.py changed, reloading.
+WARNING:django.request:Not Found: /swagger/
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Not Found: /swagger/register
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Not Found: /swagger
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Not Found: /swagger
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Not Found: /redoc
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Not Found: /redoc
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Not Found: /swagger/
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Not Found: /swagger
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Not Found: /swagger
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Not Found: /swagger/
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Not Found: /swagger/
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Not Found: /swagger
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Not Found: /swagger
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Not Found: /redoc
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Not Found: /swagger/
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Unauthorized: /
+WARNING:django.request:Unauthorized: /favicon.ico
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\arambhskill\urls.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\arambhskill\urls.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\arambhskill\urls.py changed, reloading.
+WARNING:django.request:Not Found: /swagger
+WARNING:django.request:Not Found: /swagger/
+WARNING:django.request:Not Found: /swagger/
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Not Found: /swagger
+WARNING:django.request:Not Found: /swagger/
+WARNING:django.request:Unauthorized: /favicon.ico
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\arambhskill\urls.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\arambhskill\urls.py changed, reloading.
+WARNING:django.request:Unauthorized: /accounts/login/
+WARNING:django.request:Unauthorized: /favicon.ico
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\authentication\middlewares.py changed, reloading.
+WARNING:django.request:Not Found: /accounts/login/
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Not Found: /accounts/login/
+WARNING:django.request:Unauthorized: /favicon.ico
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\authentication\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\authentication\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\authentication\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\authentication\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\authentication\views.py changed, reloading.
+WARNING:django.request:Bad Request: /auth/register
+WARNING:django.request:Not Found: /accounts/login/
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Not Found: /accounts/login/
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Not Found: /accounts/login/
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Not Found: /accounts/login/
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Unauthorized: /tasks/assign_task
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\authentication\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\authentication\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\authentication\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\authentication\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\authentication\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\authentication\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\authentication\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\authentication\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\authentication\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\authentication\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\authentication\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\authentication\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\authentication\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+ERROR:django.request:Internal Server Error: /swagger/
+Traceback (most recent call last):
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\views.py", line 112, in get
+    schema = generator.get_schema(request, self.public)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\generators.py", line 276, in get_schema
+    paths, prefix = self.get_paths(endpoints, components, request, public)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\generators.py", line 482, in get_paths
+    operation = self.get_operation(view, path, prefix, method, components, request)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\generators.py", line 524, in get_operation
+    operation = view_inspector.get_operation(operation_keys)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 45, in get_operation
+    responses = self.get_responses()
+                ^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 182, in get_responses
+    responses=self.get_response_schemas(response_serializers)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 259, in get_response_schemas
+    response.schema = self.serializer_to_schema(serializer)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 438, in serializer_to_schema
+    return self.probe_inspectors(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 49, in get_schema
+    return self.probe_field_inspectors(serializer, openapi.Schema, self.use_definitions)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 228, in probe_field_inspectors
+    return self.probe_inspectors(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 140, in field_to_swagger_object
+    actual_schema = definitions.setdefault(ref_name, make_schema_definition)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\openapi.py", line 685, in setdefault
+    ret = maker()
+          ^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 109, in make_schema_definition
+    for property_name, child in serializer.fields.items():
+                                ^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\serializers.py", line 372, in fields
+    for key, value in self.get_fields().items():
+                      ^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\serializers.py", line 1103, in get_fields
+    field_class, field_kwargs = self.build_field(
+                                ^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\serializers.py", line 1249, in build_field
+    return self.build_unknown_field(field_name, model_class)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\serializers.py", line 1367, in build_unknown_field
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: Field name `status` is not valid for model `Task` in `tasks.serializer.TaskSerializer`.
+ERROR:django.request:Internal Server Error: /swagger/
+Traceback (most recent call last):
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\views.py", line 112, in get
+    schema = generator.get_schema(request, self.public)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\generators.py", line 276, in get_schema
+    paths, prefix = self.get_paths(endpoints, components, request, public)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\generators.py", line 482, in get_paths
+    operation = self.get_operation(view, path, prefix, method, components, request)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\generators.py", line 524, in get_operation
+    operation = view_inspector.get_operation(operation_keys)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 45, in get_operation
+    responses = self.get_responses()
+                ^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 182, in get_responses
+    responses=self.get_response_schemas(response_serializers)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 259, in get_response_schemas
+    response.schema = self.serializer_to_schema(serializer)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 438, in serializer_to_schema
+    return self.probe_inspectors(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 49, in get_schema
+    return self.probe_field_inspectors(serializer, openapi.Schema, self.use_definitions)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 228, in probe_field_inspectors
+    return self.probe_inspectors(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 140, in field_to_swagger_object
+    actual_schema = definitions.setdefault(ref_name, make_schema_definition)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\openapi.py", line 685, in setdefault
+    ret = maker()
+          ^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 109, in make_schema_definition
+    for property_name, child in serializer.fields.items():
+                                ^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\serializers.py", line 372, in fields
+    for key, value in self.get_fields().items():
+                      ^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\serializers.py", line 1103, in get_fields
+    field_class, field_kwargs = self.build_field(
+                                ^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\serializers.py", line 1249, in build_field
+    return self.build_unknown_field(field_name, model_class)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\serializers.py", line 1367, in build_unknown_field
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: Field name `status` is not valid for model `Task` in `tasks.serializer.TaskSerializer`.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+WARNING:django.request:Unauthorized: /tasks/create_task
+WARNING:django.request:Unauthorized: /tasks/create_task
+WARNING:django.request:Unauthorized: /tasks/create_task
+WARNING:django.request:Not Found: /accounts/login/
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Unauthorized: /tasks/create_task
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+WARNING:django.request:Bad Request: /auth/login
+WARNING:django.request:Unauthorized: /tasks/create_task
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+WARNING:django.request:Unauthorized: /tasks/create_task
+WARNING:django.request:Unauthorized: /tasks/create_task
+ERROR:django.request:Internal Server Error: /tasks/create_task
+Traceback (most recent call last):
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\tasks\views.py", line 75, in create_task
+    "status": task.status,
+              ^^^^^^^^^^^
+AttributeError: 'Task' object has no attribute 'status'
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+ERROR:django.request:Internal Server Error: /tasks/create_task
+Traceback (most recent call last):
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\.venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VarunKateJoshTalks_Task\tasks\views.py", line 50, in create_task
+    "status": task.status,
+              ^^^^^^^^^^^
+AttributeError: 'Task' object has no attribute 'status'
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\swagger_urls.py changed, reloading.
+WARNING:django.request:Not Found: /swagger/
+WARNING:django.request:Unauthorized: /favicon.ico
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\swagger_urls.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.

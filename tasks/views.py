@@ -47,14 +47,12 @@ def create_task(request):
                     "title": task.title,
                     "admin_id": task.admin_id.username,
                     "priority": task.priority,
-                    "status": task.status,
                     "due_date": task.due_date,
                 }
             }, status=201)
 
         except json.JSONDecodeError:
             return JsonResponse({"status": "failed", "error": "Invalid JSON"}, status=400)
-
 
 
 # Assign Task
@@ -102,8 +100,8 @@ def assign_task(request):
           "assigned_by": task.admin_id.email,
           "assigned_to": task_assign.assigned_to.email,
           "priority": task.priority,
-          "status": task.status,
           "due_date": task.due_date,
+          "status": task_assign.status,
         }
       }, status=201)
         

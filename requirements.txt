@@ -8,3 +8,4 @@ psycopg2-binary>=2.9.9  # PostgreSQL database adapter
 python-dotenv==1.0.1  # For environment variable management
 dj-database-url==2.3.0  # For handling database URLs easily
 django-cors-headers==4.6.0  # For handling CORS headers
+drf_yasg==1.21.5  # For generating Swagger documentation
