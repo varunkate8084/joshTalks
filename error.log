@@ -1,0 +1,216 @@
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+ERROR:django.request:Internal Server Error: /tasks/get_assigned_tasks
+Traceback (most recent call last):
+  File "D:\arambhskills\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\arambhskills\.venv\Lib\site-packages\django\utils\deprecation.py", line 131, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\arambhskills\.venv\Lib\site-packages\django\middleware\clickjacking.py", line 27, in process_response
+    if response.get("X-Frame-Options") is not None:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: HttpResponseBase.get() missing 1 required positional argument: 'header'
+ERROR:django.request:Internal Server Error: /tasks/get_assigned_tasks
+Traceback (most recent call last):
+  File "D:\arambhskills\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\arambhskills\.venv\Lib\site-packages\django\utils\deprecation.py", line 131, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\arambhskills\.venv\Lib\site-packages\django\middleware\clickjacking.py", line 27, in process_response
+    if response.get("X-Frame-Options") is not None:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: HttpResponseBase.get() missing 1 required positional argument: 'header'
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+WARNING:django.request:Bad Request: /tasks/get_assigned_tasks
+WARNING:django.request:Bad Request: /tasks/get_assigned_tasks
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+WARNING:django.request:Bad Request: /tasks/get_assigned_tasks
+WARNING:django.request:Bad Request: /tasks/get_assigned_tasks
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+WARNING:django.request:Bad Request: /tasks/get_assigned_tasks
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+WARNING:django.request:Bad Request: /tasks/get_assigned_tasks
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+WARNING:django.request:Bad Request: /tasks/get_assigned_tasks
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+WARNING:django.request:Bad Request: /tasks/get_assigned_tasks
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+WARNING:django.request:Bad Request: /tasks/get_assigned_tasks
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+WARNING:django.request:Bad Request: /tasks/get_assigned_tasks
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\models.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+ERROR:django.request:Internal Server Error: /tasks/get_assigned_tasks
+Traceback (most recent call last):
+  File "D:\arambhskills\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\arambhskills\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\arambhskills\tasks\views.py", line 140, in get_assigned_tasks
+    return JsonResponse({"status": "success", "message": "Task Get successfully", "task": serializer.data}, status=200)
+                                                                                          ^^^^^^^^^^^^^^^
+AttributeError: 'ReturnList' object has no attribute 'data'
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+WARNING:django.request:Method Not Allowed: /tasks/get_assigned_tasks
+WARNING:django.request:Bad Request: /tasks/get_assigned_tasks
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+WARNING:django.request:Bad Request: /tasks/get_assigned_tasks
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+WARNING:django.request:Bad Request: /tasks/get_assigned_tasks
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+WARNING:django.request:Bad Request: /tasks/get_tasks
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+WARNING:django.request:Bad Request: /tasks/get_tasks
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+WARNING:django.request:Unauthorized: /tasks/create_task
+WARNING:django.request:Bad Request: /tasks/assign_task
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\arambhskills\tasks\serializer.py changed, reloading.
+WARNING:django.request:Unauthorized: /
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Unauthorized: /
+WARNING:django.request:Unauthorized: /favicon.ico
+WARNING:django.request:Unauthorized: /favicon.ico
