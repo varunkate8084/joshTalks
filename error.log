@@ -214,3 +214,25 @@ WARNING:django.request:Unauthorized: /favicon.ico
 WARNING:django.request:Unauthorized: /
 WARNING:django.request:Unauthorized: /favicon.ico
 WARNING:django.request:Unauthorized: /favicon.ico
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\urls.py changed, reloading.
+WARNING:django.request:Bad Request: /tasks/assign_task
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\urls.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\urls.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\urls.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\urls.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\urls.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\urls.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\urls.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\models.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\models.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\serializer.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\serializer.py changed, reloading.
+WARNING:django.request:Bad Request: /tasks/get_assigned_task_by_userid/9
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\VarunKateJoshTalks_Task\tasks\views.py changed, reloading.

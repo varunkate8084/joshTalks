@@ -15,11 +15,10 @@ class TaskSerializer(serializers.ModelSerializer):
 
 class TaskAssignSerializer(serializers.ModelSerializer):
     task_title = serializers.CharField(source='task_id.title', read_only=True)
-    task_status = serializers.CharField(source='task_id.status',read_only=True)
     assigned_to_username = serializers.CharField(source='assigned_to.username', read_only=True)
     assigned_to_email = serializers.CharField(source='assigned_to.email', read_only=True)
     assigned_by_username = serializers.CharField(source='assigned_by.username', read_only=True)
     assigned_by_email = serializers.CharField(source='assigned_by.email', read_only=True)
     class Meta:
         model = TaskAssign
-        fields = ['id', 'task_id', 'task_title',"task_status",'assigned_to','assigned_to_username','assigned_to_email','assigned_by_username','assigned_by_email','assigned_by','created_at']
+        fields = ['id', 'task_id', 'task_title',"status",'assigned_to','assigned_to_username','assigned_to_email','assigned_by_username','assigned_by_email','assigned_by','created_at']
