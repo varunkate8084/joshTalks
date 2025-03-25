@@ -61,3 +61,6 @@ Django server is running
 ## Conclusion
 Your Django server is now up and running!
 
+## Note:
+To go to full doc of the APIs go to http://127.0.0.1:8000/redoc/
+
