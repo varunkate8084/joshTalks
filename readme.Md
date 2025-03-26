@@ -58,11 +58,41 @@ You should see a message saying:
 Django server is running
 ```
 
+## Alternative: Setting Up from a ZIP File
+If you have the project as a ZIP file, follow these steps:
+1. Extract the ZIP file to a folder.
+2. Open a terminal and navigate to the extracted folder.
+3. Activate the virtual environment:
+   - **Windows:**
+     ```sh
+     .venv\Scripts\activate
+     ```
+   - **Mac/Linux:**
+     ```sh
+     source .venv/bin/activate
+     ```
+4. Install dependencies using one of the following:
+   - If using `uv` (recommended):
+     ```sh
+     uv sync
+     ```
+   - If using `pip`:
+     ```sh
+     pip install -r requirements.txt
+     ```
+5. Run the Django server:
+   ```sh
+   python manage.py runserver
+   ```
+
 ## Conclusion
 Your Django server is now up and running!
 
 ## Note:
-To go to full doc of the APIs go to http://127.0.0.1:8000/redoc/
+To go to the full documentation of the APIs, visit:
+```
+http://127.0.0.1:8000/redoc/
+```
 
 
 ## API Endpoints
