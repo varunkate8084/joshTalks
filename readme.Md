@@ -64,3 +64,274 @@ Your Django server is now up and running!
 ## Note:
 To go to full doc of the APIs go to http://127.0.0.1:8000/redoc/
 
+
+## API Endpoints
+Base URL: http://127.0.0.1:8000
+### **Authentication APIs**
+
+#### **Register User**
+**Endpoint:** `POST /auth/register`
+
+**Description:** Registers a new user with a username, email, and password.
+
+**Request Body:**
+```json
+{
+  "username": "testuser",
+  "email": "testuser@example.com",
+  "password": "securepassword"
+}
+```
+
+**Response:**
+```json
+{
+  "Message": "Register Success",
+  "status": true,
+  "user": {
+    "id": 1,
+    "username": "testuser",
+    "email": "testuser@example.com"
+  },
+  "token": "generated_token"
+}
+```
+
+#### **User Login**
+**Endpoint:** `POST /auth/login`
+
+**Description:** Authenticates a user using email and password.
+
+**Request Body:**
+```json
+{
+  "email": "testuser@example.com",
+  "password": "securepassword"
+}
+```
+
+**Response:**
+```json
+{
+  "message": "Logged In Success",
+  "status": true,
+  "token": "generated_token",
+  "user": {
+    "id": 1,
+    "username": "testuser",
+    "email": "testuser@example.com"
+  }
+}
+```
+
+### **Task Management APIs**
+
+#### **Create Task**
+**Endpoint:** `POST tasks/create_task`
+
+**Description:** Allows an admin to create a new task.
+
+**Headers:**
+```json
+{
+  "Authorization": "Bearer <token>"
+}
+```
+
+**Request Body:**
+```json
+{
+  "title": "New Task",
+  "description": "Task details",
+  "priority": "high",
+  "due_date": "2025-04-01"
+}
+```
+
+**Response:**
+```json
+{
+  "status": "success",
+  "message": "Task assigned successfully",
+  "task": {
+    "id": 1,
+    "title": "New Task",
+    "admin_id": "admin_user",
+    "priority": "high",
+    "due_date": "2025-04-01"
+  }
+}
+```
+
+#### **Assign Task**
+**Endpoint:** `POST /tasks/assign_task`
+
+**Description:** Allows an admin to assign a task to a user.
+
+**Headers:**
+```json
+{
+  "Authorization": "Bearer <token>"
+}
+```
+
+**Request Body:**
+```json
+{
+  "task_id": 1,
+  "assigned_to": 2
+}
+```
+
+**Response:**
+```json
+{
+  "status": "success",
+  "message": "Task assigned successfully",
+  "task": {
+    "id": 1,
+    "title": "New Task",
+    "assigned_by": "admin@example.com",
+    "assigned_to": "user@example.com",
+    "priority": "high",
+    "due_date": "2025-04-01",
+    "status": "pending"
+  }
+}
+```
+
+#### **Get Tasks Created by Admin**
+**Endpoint:** `GET /tasks/get_tasks`
+
+**Description:** Fetches all tasks created by the admin.
+
+**Headers:**
+```json
+{
+  "Authorization": "Bearer <token>"
+}
+```
+
+**Response:**
+```json
+{
+  "status": "success",
+  "message": "Tasks retrieved successfully",
+  "task": [
+    {
+      "id": 1,
+      "title": "New Task",
+      "priority": "high",
+      "due_date": "2025-04-01"
+    }
+  ]
+}
+```
+
+#### **Get Assigned Tasks**
+**Endpoint:** `GET /tasks/get_assigned_tasks`
+
+**Description:** Fetches all tasks assigned by the admin.
+
+**Headers:**
+```json
+{
+  "Authorization": "Bearer <token>"
+}
+```
+
+**Response:**
+```json
+{
+  "status": "success",
+  "message": "Tasks retrieved successfully",
+  "task": [
+    {
+      "id": 1,
+      "task_title": "New Task",
+      "status": "pending",
+      "assigned_to_username": "testuser",
+      "assigned_to_email": "testuser@example.com",
+      "assigned_by_username": "admin",
+      "assigned_by_email": "admin@example.com",
+      "created_at": "2025-03-25T12:00:00Z"
+    }
+  ]
+}
+```
+
+#### **Get Assigned Tasks by Status**
+**Endpoint:** `GET /tasks/get_assigned_tasks/<str:status>`
+example: GET /tasks/get_assigned_tasks/pending
+
+**Description:** Fetches all assigned tasks filtered by status.
+
+**Headers:**
+```json
+{
+  "Authorization": "Bearer <token>"
+}
+```
+
+**Response:**
+```json
+{
+  "status": "success",
+  "message": "Tasks retrieved successfully",
+  "task": [
+    {
+      "id": 1,
+      "task_title": "New Task",
+      "status": "pending",
+      "assigned_to_username": "testuser",
+      "assigned_to_email": "testuser@example.com",
+      "assigned_by_username": "admin",
+      "assigned_by_email": "admin@example.com",
+      "created_at": "2025-03-25T12:00:00Z"
+    }
+  ]
+}
+```
+
+#### **Get Tasks Assigned to a Specific User**
+**Endpoint:** `GET /get_assigned_task_by_userid/<int:user_id>`
+example: GET /tasks/get_assigned_task_by_userid/1
+
+**Description:** Fetches all tasks assigned to a particular user.
+
+**Headers:**
+```json
+{
+  "Authorization": "Bearer <token>"
+}
+```
+
+**Response:**
+```json
+{
+  "status": "success",
+  "message": "Tasks retrieved successfully",
+  "task": [
+    {
+      "id": 1,
+      "task_title": "New Task",
+      "status": "pending",
+      "assigned_to_username": "testuser",
+      "assigned_to_email": "testuser@example.com",
+      "assigned_by_username": "admin",
+      "assigned_by_email": "admin@example.com",
+      "created_at": "2025-03-25T12:00:00Z"
+    }
+  ]
+}
+```
+
+## License
+This project is for JoshTalks backend task submission.
+
+
+
+
+
+
+
