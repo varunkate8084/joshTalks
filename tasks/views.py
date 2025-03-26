@@ -141,12 +141,10 @@ def get_assigned_tasks(request):
       return JsonResponse({"status": "failed to fetch tasks", "error": str(e)}, status=400)
 
 
-
+#    ---------------------------- these are the routes for the user who are not admin ---------------------
 @api_view(['GET'])
 def get_tasks_assigned_status(request,status:str):
     try:
-      if not request.user.is_superuser:
-        return JsonResponse({"status": "failed", "error": "You are not to perform this operation"}, status=400)
       tasks = TaskAssign.objects.filter(assigned_by_id=request.user.id,status=status).select_related("task_id", "assigned_to")
       task_data = TaskAssignSerializer(tasks, many=True).data
       return JsonResponse({"status": "success", "message": "Task Get successfully", "task": task_data}, status=200)
@@ -157,8 +155,6 @@ def get_tasks_assigned_status(request,status:str):
 @api_view(['GET'])
 def get_tasks_assigned_by_userid(request,user_id:int):
     try:
-      if not request.user.is_superuser:
-        return JsonResponse({"status": "failed", "error": "You are not to perform this operation"}, status=400)
       tasks = TaskAssign.objects.filter(assigned_by_id=request.user.id,assigned_to_id=user_id).select_related("task_id", "assigned_to")
       task_data = TaskAssignSerializer(tasks, many=True).data
       return JsonResponse({"status": "success", "message": "Task Get successfully", "task": task_data}, status=200)
